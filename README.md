@@ -99,13 +99,16 @@
 
 
 
-## 📌 시작하려면?
+## 📌 클래스 다이어그램
 
-```bash
-javac app/lupangSHOPConsoleApp.java
-java app.lupangSHOPConsoleApp
-`
-## 아이템 클래스 다이어 그램
-![갠플클래스](https://github.com/user-attachments/assets/eb05d015-8e28-456b-93e7-a65ca87537ce)
+![갠플클래스](https://github.com/user-attachments/assets/eb05d015-8e28-456b-93e7-a65ca87537ce) 
+
+
+
+
 ![맴버클래스다이어그램](https://github.com/user-attachments/assets/0afe3e54-9387-4356-859d-03c6329f8667)
+
+
+
+
 ![카트](https://github.com/user-attachments/assets/8d409e2a-97cb-4c0b-9760-203c8f993385)
