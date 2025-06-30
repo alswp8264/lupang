@@ -61,7 +61,73 @@ src/
     └── PaymentService.java          # 포인트 결제 처리 클래스
 ```
 ## 📋 주요기능 상세 설명
+🧭 메인 메뉴
 
+• 아이템 목록 보기
+
+• 로그인
+
+• 회원 가입
+
+🛍️ 구매자 기능 (ConsumerMenu)
+
+• 아이템 목록
+
+• 아이템 구매하기
+
+• 판매자 닉네임으로 검색
+
+• 장바구니
+
+• 아이템 검색
+
+• 판매하기
+
+• 수령 확인
+
+• 구매 취소
+
+• 내 정보 보기
+
+• 이전화면으로 돌아가기
+
+🛒 장바구니 기능 (CartMenu)
+• 장바구니에 담기
+
+• 장바구니 목록 보기
+
+• 아이템 제거
+
+• 장바구니 비우기
+
+• 결제하기 (전체 / 선택)
+
+👤 마이페이지 기능 (MyPageMenu)
+
+• 닉네임 변경
+
+• 비밀번호 변경
+
+• 회원 탈퇴
+
+• 포인트 충전
+
+🛠️ 관리자 기능 (AdminMenu)
+• 전체 회원 목록 조회
+
+• 전체 아이템 목록 조회
+
+• 전체 거래 목록 조회
+
+• 거래 상태 수동 변경
+
+• 회원 강제 탈퇴
+
+• 아이템 삭제
+
+• 이나게임별 아이템 수량 확인
+
+로그아웃
 
 
 
@@ -111,3 +177,18 @@ src/
 ## 📌 카트 클래스 다이어그램
 ![스크린샷 2025-06-28 153244](https://github.com/user-attachments/assets/26d9c737-0175-4219-be07-f55fb69f8b75)
 
+## 🎬 루팡샵 시연 영상 (메인 & 판매자)
+[![루팡샵 메인 & 판매자](http://img.youtube.com/vi/_RL2P6nUrxQ/0.jpg)](https://youtu.be/_RL2P6nUrxQ)
+---
+
+## 🎬 루팡샵 시연 영상 (구매자)
+[![루팡샵 구매자](http://img.youtube.com/vi/1pUldzgopP8/0.jpg)](https://youtu.be/1pUldzgopP8)
+---
+
+## 🎬 루팡샵 시연 영상 (장바구니)
+[![루팡샵 장바구니](http://img.youtube.com/vi/5ac6XBfs470/0.jpg)](https://youtu.be/5ac6XBfs470)
+---
+
+## 🎬 루팡샵 시연 영상 (관리자)
+[![루팡샵 관리자](http://img.youtube.com/vi/UX0ioiCHsGc/0.jpg)](https://youtu.be/UX0ioiCHsGc)
+---
