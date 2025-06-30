@@ -59,13 +59,14 @@ src/
 │   ├── MJMemberService.java         # 회원 서비스 구현
 │   ├── HashMapMemberDAO.java        # HashMap 기반 DAO
 │   ├── ObjFileHashMapMemberDAO.java # 파일 저장 DAO 구현
-│   ├── FileMemberDB.java            # 회원 파일 입출력 처리
-│   └── MemberPrinter.java           # 회원 정보 출력 유틸
+│   └── FileMemberDB.java            # 회원 파일 입출력 처리
+│  
 │
 ├── transaction/                 # 거래(주문) 관리 기능
 │   ├── Transaction.java             # 거래 정보 클래스
 │   └── TransactionService.java      # 거래 서비스 구현
-│
+├── MyPageMenu/
+│           └── MyPageMenu.java              # 마이페이지 메뉴 
 └── payment/                     # 포인트 결제 기능
     └── PaymentService.java          # 포인트 결제 처리 클래스
 ```
